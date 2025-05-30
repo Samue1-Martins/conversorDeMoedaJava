@@ -1,0 +1,30 @@
+[
+  {
+    "Result": "success",
+    "BaseCode": "USD",
+    "TargetCode": "ARS",
+    "ConversionResult": "1174.5",
+    "ConversionRate": "1174.5000"
+  },
+  {
+    "Result": "success",
+    "BaseCode": "BRL",
+    "TargetCode": "USD",
+    "ConversionResult": "0.1761",
+    "ConversionRate": "0.1761"
+  },
+  {
+    "Result": "success",
+    "BaseCode": "USD",
+    "TargetCode": "BRL",
+    "ConversionResult": "5.6778",
+    "ConversionRate": "5.6778"
+  },
+  {
+    "Result": "success",
+    "BaseCode": "USD",
+    "TargetCode": "COP",
+    "ConversionResult": "4128.8105",
+    "ConversionRate": "4128.8105"
+  }
+]
